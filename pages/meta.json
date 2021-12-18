@@ -1,7 +1,11 @@
 {
   "index": "Introducing SantaDAO",
-  "get-started": "The Problem",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "legal-disclaimers": "Legal Disclaimers",
+  "smart-contracts": "Smart Contracts",
+  "open-source-code": "Open Source Code",
+  "success": "What does success look like?",
+  "fundraising": "Fundraising",
+  "contribute": "How to Contribute",
+  "faq": "FAQ",
+  "donate-and-mint": "Donate and Mint"
 }
