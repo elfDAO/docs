@@ -1,5 +1,5 @@
 {
-  "name": "nextra",
+  "name": "elfDAO Docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "next start",
     "build": "next build"
   },
-  "author": "Shu Ding",
+  "author": "Byeongjun Moon",
   "license": "MIT",
   "dependencies": {
     "next": "^12.0.7",

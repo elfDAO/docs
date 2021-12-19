@@ -1,10 +1,10 @@
 export default {
-  github: 'https://github.com/SantaDAO/docs',
-  docsRepositoryBase: 'https://github.com/SantaDAO/docs/blob/master',
-  titleSuffix: ' – SantaDAO',
+  github: 'https://github.com/elfDAO/docs',
+  docsRepositoryBase: 'https://github.com/elfDAO/docs/blob/master',
+  titleSuffix: ' – elfDAO',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">🎅🏼 SantaDAO</span>
+      <span className="mr-2 font-extrabold hidden md:inline">🎄 elfDAO</span>
       <span className="text-gray-600 font-normal hidden md:inline">
         A Manifesto
       </span>
@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: 'Edit this page on GitHub',
-  footerText: <>© {new Date().getFullYear()} SantaDAO</>,
-  unstable_faviconGlyph: '👋',
-}
+  footerEditLink: 'Edit this page',
+  footerText: <>© {new Date().getFullYear()} elfDAO</>,
+  unstable_faviconGlyph: '🎄',
+} 
