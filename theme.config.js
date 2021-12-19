@@ -6,7 +6,7 @@ export default {
     <>
       <span className="mr-2 font-extrabold hidden md:inline">🎄 elfDAO</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        A Manifesto
+        Documentation
       </span>
     </>
   ),
