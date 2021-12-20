@@ -19,11 +19,11 @@ export default {
       <meta name="description" content="elfDAO. WAGBG." />
       <meta name="og:description" content="elfDAO. WAGBG." />
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="../og.png" />
+      <meta name="twitter:image" content="/../og.png" />
       <meta name="twitter:site:domain" content="docs.elfdao.com" />
-      <meta name="twitter:url" content="../og.png" />
+      <meta name="twitter:url" content="/../og.png" />
       <meta name="og:title" content="elfDAO" />
-      <meta name="og:image" content="../og.png" />
+      <meta name="og:image" content="/../og.png" />
       <meta name="apple-mobile-web-app-title" content="elfDAO" />
       <link
         rel="apple-touch-icon"
