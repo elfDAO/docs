@@ -16,15 +16,15 @@ export default {
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="we're all going to buy gifts!" />
-      <meta name="og:description" content="we're all going to buy gifts!" />
+      <meta name="description" content="elfDAO. WAGBG." />
+      <meta name="og:description" content="elfDAO. WAGBG." />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:image" content="../og.png" />
       <meta name="twitter:site:domain" content="docs.elfdao.com" />
       <meta name="twitter:url" content="../og.png" />
       <meta name="og:title" content="elfDAO" />
       <meta name="og:image" content="../og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta name="apple-mobile-web-app-title" content="elfDAO" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
