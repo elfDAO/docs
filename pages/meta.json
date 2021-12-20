@@ -1,6 +1,5 @@
 {
   "index": "Introducing elfDAO",
-  "legal": "Legal",
   "smart-contracts": "Smart Contracts",
   "open-source-code": "Open Source Code",
   "success": "What does success look like?",
@@ -8,6 +7,7 @@
   "contribute": "How to Contribute",
   "faq": "FAQ",
   "donate-and-mint": "Donate and Mint",
+  "legal": "Legal",
   "team": "Our Team",
   "code": "Code"
 }
